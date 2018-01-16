@@ -49,7 +49,7 @@ You have to share you printer, and give the shared printer name
 on Windows you can use control panel to share printer
 on MAC you can do with CUPS http://localhost:631
 
-Tutorial in Indonesian could be fine on http://dendy.staff.ugm.ac.id or http://agmsoftware.id
+Tutorial in Indonesian on http://dendy.staff.ugm.ac.id or http://agmsoftware.id
 
 **********************
 Tools
