@@ -35,7 +35,7 @@ kemudian hasil sharing tersebut bisa anda beri nama
 di Windows anda bisa pakai control panel untuk mensharing printer
 di MAC anda bisa pakai CUPS di http://localhost:631
 
-Tutorial nya silahkan cek di http://dendy.staff.ugm.ac.id atau http://agmsoftware.id
+Tutorial bisa dibaca di http://dendy.staff.ugm.ac.id atau http://agmsoftware.id
 
 
 :Sample Application or implementation POS + Direct Printing. You can use any printers,
